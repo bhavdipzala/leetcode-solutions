@@ -12,10 +12,10 @@ LeetCode-to-GitHub service is used.
 <!-- AUTO-GENERATED:START:PROGRESS -->
 | Difficulty | Solved |
 |------------|-------:|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **0** |
+| **Total** | **1** |
 <!-- AUTO-GENERATED:END:PROGRESS -->
 
 ## Problems
@@ -23,6 +23,7 @@ LeetCode-to-GitHub service is used.
 <!-- AUTO-GENERATED:START:PROBLEMS -->
 | LeetCode# | Title | Difficulty | Solution | Topics |
 |-----|-------|------------|----------|--------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [View Solution](./solutions/LC1-two-sum/) | Array, Hash Table |
 <!-- AUTO-GENERATED:END:PROBLEMS -->
 
 ## Repository Structure
